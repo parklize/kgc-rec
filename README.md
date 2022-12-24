@@ -25,6 +25,7 @@ Massive Open Online Courses (MOOCs) which enable large- scale open online learni
 ├── output        # output folder 
 requirements.txt  # packages to be installed using pip install -r requirements.txt
 data_utils.py     # for evaluation of predicted results using trained model
+data_utils.ipynb  # for data preprocessing
 m_train.py        # for training the model
 m_inits.py
 m_layers.py
