@@ -40,7 +40,7 @@ metrics.py
 
 ## Usage
 
-*Data*: You can download the big files in the data folder alternatively [here](https://drive.google.com/drive/folders/1B_syoPiqZiFROreCRFlJTqRmcqK5KOd-?usp=sharing); original dataset can be found on [moocdata](http://moocdata.cn/data/MOOCCube).
+**Data**: You can download the big files in the data folder alternatively [here](https://drive.google.com/drive/folders/1B_syoPiqZiFROreCRFlJTqRmcqK5KOd-?usp=sharing); original dataset can be found on [moocdata](http://moocdata.cn/data/MOOCCube).
 
 Use the following command to train our method $MOOCIR_{a1}$ on the MOOCCube dataset. The output include ```m_rating_pred_bestmrr.p``` file for predicted item score matrix for all users.
 
