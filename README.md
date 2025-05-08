@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.6-blue?logo=python&logoColor=gold)
+![Tensorflow](https://img.shields.io/badge/tensorflow-1.13.1-blue?logo=tensorflow)
+![GitHub](https://img.shields.io/github/stars/parklize/kgc-rec)
+![GitHub](https://img.shields.io/github/forks/parklize/kgc-rec)
+
+
 # Recommending Knowledge Concepts on MOOC Platforms with Meta-path-based Representation Learning
 
 This repository contains the implementation for [EDM2021](https://educationaldatamining.org/edm2021/) paper - "Recommending Knowledge Concepts on MOOC Platforms with Meta-path-based Representation Learning". This work is inspired by and built on top of [ACKRec](https://github.com/JockWang/ACKRec). 
@@ -16,7 +22,9 @@ In this paper, we propose an approach by modeling information on MOOC platforms 
 
 **Laptop used for experiments**: Intel(R) Core(TM) i5-8365U processor laptop with 16GB RAM
 
-**Main packages:** Python 3.6; Tensorflow 1.13.1
+**Main packages:** Python3.6; Tensorflow1.13.1
+
+
 
 
 
